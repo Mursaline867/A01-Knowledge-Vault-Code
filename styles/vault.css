@@ -209,13 +209,11 @@ nav{
   align-items: center;
 }
 
-/* IMAGE */
 .solution-image img {
   width: 600px;
   max-width: 420px;
 }
 
-/* CONTENT */
 .solution-tag {
   font-size: 16px;
   color: #22c55e;
@@ -236,7 +234,6 @@ nav{
   margin-bottom: 25px;
 }
 
-/* LIST */
 .solution-list {
     font-size: 16px;
     line-height: 20px;
@@ -253,7 +250,6 @@ nav{
     font-size: 15px;
     color: #0a1f44;
 }
-
 .solution-list img {
     width: 18px;
     height: 18px;
